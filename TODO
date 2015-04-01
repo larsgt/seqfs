@@ -1,0 +1,4 @@
+- Add support for stat
+- Split FASTQ into two
+- Add math stuff to read correct read
+- Extract logic for mapping between FASTQ and BAM file
